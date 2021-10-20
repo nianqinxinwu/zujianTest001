@@ -1,0 +1,16 @@
+PODS:
+  - cyzujian001 (0.1.0)
+
+DEPENDENCIES:
+  - cyzujian001 (from `Lib/cyzujian001`)
+
+EXTERNAL SOURCES:
+  cyzujian001:
+    :path: Lib/cyzujian001
+
+SPEC CHECKSUMS:
+  cyzujian001: ff6f51eae1d7af142d21e4bbca385006ca7edf95
+
+PODFILE CHECKSUM: fc41c446bc8b515b71f876da53e5260ef0d60ae7
+
+COCOAPODS: 1.11.2

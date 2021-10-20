@@ -1,0 +1,6 @@
+framework module cyzujian001 {
+  umbrella header "cyzujian001-umbrella.h"
+
+  export *
+  module * { export * }
+}

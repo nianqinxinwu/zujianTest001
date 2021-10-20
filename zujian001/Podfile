@@ -1,0 +1,16 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'zujian001' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for zujian001
+
+  pod 'cyzujian001', :path => 'Lib/cyzujian001'
+
+  target 'zujian001UITests' do
+    # Pods for testing
+  end
+
+end

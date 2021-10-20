@@ -1,0 +1,22 @@
+{
+  "name": "cyzujian001",
+  "version": "0.1.0",
+  "summary": "A short description of cyzujian001.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/changyuan1/cyzujian001",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "changyuan1": "changyuan1@joyy.com"
+  },
+  "source": {
+    "git": "https://github.com/changyuan1/cyzujian001.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "cyzujian001/Classes/**/*"
+}
